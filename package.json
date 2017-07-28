@@ -1,0 +1,19 @@
+{
+  "name": "universal-react",
+  "version": "1.0.0",
+  "description": "A Universal React App Boilerplate",
+  "main": "index.js",
+  "keywords": [
+    "node",
+    "react.js",
+    "js",
+    "javascript",
+    "universal",
+    "app"
+  ],
+  "author": "Ken Torry",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
